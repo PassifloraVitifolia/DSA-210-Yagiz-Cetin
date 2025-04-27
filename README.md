@@ -3,24 +3,16 @@
 This project is about the relationship between **Airbnb prices and crime rates** in various locations. My goal is to determine that how crime levels impact guest preferences hence the hospitality prices. I will achieve this goal by comparing the data from Airbnb with other services in high and low-crime areas.
 ## Data Sources
 ### Housing Data Sources:
-**- Airbnb Listings** (Public dataset)
+**- Airbnb Listings** (Public dataset) "https://insideairbnb.com/get-the-data/"
 
 **- Booking.com & Other Housing Services** (For comparative analysis)
 
 ### Crime Data Sources:
-**- FBI Crime Data Explorer**
+**- FBI Crime Data Explorer** "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home"
 
-**- UK Police API**
+**- UK Police API** "https://data.police.uk/docs/"
 
-**- Open Canada**
-
-**- Austrian Bureau of Statistics**
-
-**- Eurostat CrimeData**
-
-**- Data.World**
-
-**- Kaggle**
+**- Eurostat CrimeData** "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Crime_statistics"
 
 ## Data Collection Methods
 **- Data Scraping:** Extracting Airbnb listings and guest reviews.
