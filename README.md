@@ -38,9 +38,12 @@ This project is about the relationship between **Airbnb prices and crime rates**
 
 ## Hypothesis
  **H0.1:** There is no correlation between the robbery rate and the average Airbnb price across states.
+ 
  **H1.1:** There is a correlation between the robbery rate and the average Airbnb price across states.
 
+
  **H0.2:** There is no correlation between the assault rate and the average Airbnb price across states.
+ 
  **H1.2:** There is a correlation between the assault rate and the average Airbnb price across states.
 
  
