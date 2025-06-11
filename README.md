@@ -44,5 +44,7 @@ This project is about the relationship between **Airbnb prices and crime rates**
  
  **H1.2:** There is a correlation between the assault rate and the average Airbnb price across states.
 
+ Results on Achieved-so-far/Project_Report
+
  
  
